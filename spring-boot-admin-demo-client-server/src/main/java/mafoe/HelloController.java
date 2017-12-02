@@ -1,8 +1,11 @@
-package hello;
+package mafoe;
 
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * From Spring Boot sample.
+ */
 @RestController
 public class HelloController {
     
